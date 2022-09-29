@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="Win logic" tests="8" skipped="0" failures="0" errors="0" timestamp="2022-09-21T17:02:25" hostname="LAPTOP-6257JG67" time="0.06">
+<testsuite name="Win logic" tests="8" skipped="0" failures="0" errors="0" timestamp="2022-09-29T12:11:58" hostname="LAPTOP-6257JG67" time="0.042">
   <properties/>
-  <testcase name="checkIfWinRowTestNoWin()" classname="com.tictactoeapp.TicTacToeTestSuite$winTest" time="0.032"/>
+  <testcase name="checkIfWinRowTestNoWin()" classname="com.tictactoeapp.TicTacToeTestSuite$winTest" time="0.022"/>
   <testcase name="checkIfWinPositiveDiagonallyTestNoWin()" classname="com.tictactoeapp.TicTacToeTestSuite$winTest" time="0.003"/>
-  <testcase name="checkIfWinColumnTestWin()" classname="com.tictactoeapp.TicTacToeTestSuite$winTest" time="0.003"/>
-  <testcase name="checkIfWinNegativeDiagonallyTestWin()" classname="com.tictactoeapp.TicTacToeTestSuite$winTest" time="0.003"/>
-  <testcase name="checkIfWinRowTestWin()" classname="com.tictactoeapp.TicTacToeTestSuite$winTest" time="0.003"/>
-  <testcase name="checkIfWinNegativeDiagonallyTestNoWin()" classname="com.tictactoeapp.TicTacToeTestSuite$winTest" time="0.004"/>
-  <testcase name="checkIfWinColumnTestNoWin()" classname="com.tictactoeapp.TicTacToeTestSuite$winTest" time="0.003"/>
-  <testcase name="checkIfWinPositiveDiagonallyTestWin()" classname="com.tictactoeapp.TicTacToeTestSuite$winTest" time="0.003"/>
+  <testcase name="checkIfWinColumnTestWin()" classname="com.tictactoeapp.TicTacToeTestSuite$winTest" time="0.002"/>
+  <testcase name="checkIfWinNegativeDiagonallyTestWin()" classname="com.tictactoeapp.TicTacToeTestSuite$winTest" time="0.002"/>
+  <testcase name="checkIfWinRowTestWin()" classname="com.tictactoeapp.TicTacToeTestSuite$winTest" time="0.001"/>
+  <testcase name="checkIfWinNegativeDiagonallyTestNoWin()" classname="com.tictactoeapp.TicTacToeTestSuite$winTest" time="0.003"/>
+  <testcase name="checkIfWinColumnTestNoWin()" classname="com.tictactoeapp.TicTacToeTestSuite$winTest" time="0.002"/>
+  <testcase name="checkIfWinPositiveDiagonallyTestWin()" classname="com.tictactoeapp.TicTacToeTestSuite$winTest" time="0.001"/>
   <system-out><![CDATA[Preparing to execute test #: 1
 Test#: 1 was executed.
 Preparing to execute test #: 2

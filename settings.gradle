@@ -1,3 +1,4 @@
 rootProject.name = 'kodillaApp'
 include 'TicTacToeApp'
+include 'TicTacToeFX'
 

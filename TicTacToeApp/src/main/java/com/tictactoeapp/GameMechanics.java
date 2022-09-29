@@ -7,7 +7,7 @@ public class GameMechanics extends Board{
 
     List<Player> playersList = new ArrayList<>();
     int usedSquares = 0;
-    public int winningNumber = 5;
+    public int winningNumber ;
     boolean ifWin = false;
     int whichPlayer = 1;
 
